@@ -1,4 +1,4 @@
-Hi, I'm Alishba shabbir:
+#                                       Hi,👋 I'm Alishba Shabbir:
 I'm a Software Engineer passionate about building scalable web and mobile applications, cloud solutions, and AI-powered systems that solve real-world problems.<br><br>My experience spans full-stack development using **React.js, Node.js, Express.js, Firebase, FastAPI, and React Native**, along with deploying applications on **AWS**. I enjoy working across the entire development lifecycle—from designing intuitive user interfaces to building secure backend APIs and cloud infrastructure.<br><br>🚀 What I'm Working On<br><br>* 🌍 AI-powered Disaster Management Platform (**ResQMap**)<br>* ☁️ Cloud Infrastructure & AWS Projects<br>* 📱 Cross-platform Mobile Applications with React Native<br>* 🤖 AI Integration in Modern Web Applications<br><br>🌱 Currently Learning<br><br>* Advanced Cloud Architecture<br>* AI-powered Software Systems<br>* System Design & Scalable Backend Development
 
 
@@ -16,7 +16,7 @@ I'm a Software Engineer passionate about building scalable web and mobile applic
 ![](https://github-profile-trophy.vercel.app/?username=alishba2484&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alishba2484&limit=5&theme=dark&combine_all_yearly_contributions=true)
